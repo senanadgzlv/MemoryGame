@@ -49,7 +49,7 @@ const cardArray=[
         img: 'assets/img/hotdog.png'
       }
 ]
-cardArray.sort(()=>0.5-Math.random()) // Yuxaridaki arrayda biz dedikki birinci 0.5-den kicikden basla boyuye dogru getsin.
+cardArray.sort(()=>0.5-Math.random()) 
 
 // console.log(cardArray);
 
